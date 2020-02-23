@@ -1,0 +1,32 @@
+.html,
+body {
+  font-family: "Raleway";
+
+  background-color: rgb(22, 21, 21);
+}
+
+h4 {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+#mc {
+  padding-top: 15rem;
+}
+
+#f {
+  background-color: grey;
+  width: 50%;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(82, 80, 80, 0.2),
+    0 6px 20px 0 rgba(102, 100, 100, 0.19);
+
+  border-radius: 1rem;
+  height: 10rem;
+}
+
+#o {
+  padding-top: 2rem;
+}
